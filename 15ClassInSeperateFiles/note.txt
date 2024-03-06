@@ -1,0 +1,5 @@
+the header file is given to other programmers as api to refer to
+
+the cpp file is compiled given to other programmers to use only
+
+so you hide the inner functionality but give the definitions to others to use
